@@ -364,6 +364,10 @@ p.descr{
 -webkit-text-shadow:0 1px rgba(0,0,0,.2);
 }
 
+.about-link a{
+	padding-top: 30px;
+}
+
 
 #team{
 	background-color: #e8e9ea;

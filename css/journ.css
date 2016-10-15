@@ -350,7 +350,8 @@ p.descr{
 	box-shadow: none;
 }
 .about-link{
-	padding-top: 50px;
+	padding-top: 39px;
+	padding-right:6px;
 	background: #8e3556;
 	color:#fff;
 	font: bold 14px/28px Arial, sans-serif;
